@@ -1,4 +1,4 @@
-#Sequência para realizar Push no GitHub via CLI
+# Sequência para realizar Push no GitHub via CLI
 --
 Criar o Diretorio
 <br>
