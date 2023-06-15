@@ -18,7 +18,7 @@ git add <nome_do_arquivo_modificado>
 --
 Commitar o arquivo
 <br>
-git commit -M "mensagem do commit"
+git commit -m "mensagem do commit"
 --
 "Declarar"r de onde vem
 <br>
