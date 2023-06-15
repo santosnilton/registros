@@ -22,7 +22,7 @@ git commit -m "mensagem do commit"
 --
 "Declarar"r de onde vem
 <br>
-git branch -M master
+git branch -m master
 --
 Declarar para onde vai
 <br>
@@ -30,7 +30,7 @@ git remote add origin git@github.com:santosnilton/registros.git
 --
 "Declarar"r de onde vem
 <br>
-git branch -M master
+git branch -m master
 --
 Levar da máquina para o GitHub
 <br>
