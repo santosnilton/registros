@@ -57,6 +57,4 @@
 
 ## Merge da Branch  
 	git merge <nome>  
-
-
-  # Lei até aqui ?
+---
