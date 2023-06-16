@@ -27,7 +27,7 @@
 ## Enviando os arquivos do Repo local para o Repo remoto  
 	git push -u origin master  
 
-## Movimentação de arquivos  
+# Movimentação de arquivos  
 
 ## Status  
 	git status  
