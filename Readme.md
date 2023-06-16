@@ -1,6 +1,6 @@
 # Sequência para realizar Push no GitHub via CLI
-# Ligando e enviando alterações do Repo local para um Repo remoto 
 ---
+# Ligando e enviando alterações do Repo local para um Repo remoto 
 ## Criar Pasta(Diretório)  
 	mkdir <name>  
 ## Remover pasta	
