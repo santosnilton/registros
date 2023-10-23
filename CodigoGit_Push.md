@@ -26,6 +26,7 @@
 	git remote -v  
 ## Enviando os arquivos do Repo local para o Repo remoto  
 	git push -u origin master  
+ 	ou  
  	git push origin HEAD:main
 
 # Movimentação de arquivos  
