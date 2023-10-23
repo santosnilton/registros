@@ -44,10 +44,12 @@
 
 # Movimentação de Branch  
 
+## Listar as Branch  
+	git branch 
+ 
 ## Criar a Branch  
 	git checkout -g <name>  
-## Listar as Branch  
-	git branch  
+ 
 ## Movimentar a Branch  
 	git checkout <name>  
 ## Deletar a Branch  
