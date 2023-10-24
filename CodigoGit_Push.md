@@ -68,9 +68,9 @@
  	git remote  
 
   	git remote -v
-   git remote remove master  
+   git remote remove <repositório remoto>  
    
-   git remote add upstream htttps://github.com/<empresa>/<path.git>
+   git remote add upstream git@github.com:/<empresa>/<path.git>
   
 	git checkout <branch>
 
