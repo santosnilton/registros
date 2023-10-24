@@ -1,6 +1,26 @@
 # Sequência para realizar Push no GitHub via CLI
 ---
-# Ligando e enviando alterações do Repo local para um Repo remoto 
+# Ligando e enviando alterações do Repo local para um Repo remoto  
+
+## Atualizando Repositorio
+	git branch  
+ 
+ 	git remote  
+
+  	git remote -v
+   git remote remove <repositório remoto>  
+   
+   git remote add upstream git@github.com:/<empresa>/<path.git>
+  
+	git checkout <branch>
+
+	git add .  
+
+ 	git commit -m "Mensagem do commit"  
+
+	git push <repositório remoto> <branch local>:<branch remoto>  
+ 	
+--- 
 ## Criar Pasta(Diretório)  
 	mkdir <name>  
 ## Remover pasta	
@@ -62,22 +82,4 @@
 ## Merge da Branch  
 	git merge <nome>  
 ---
-## Atualizando Repositorio
-	git branch  
  
- 	git remote  
-
-  	git remote -v
-   git remote remove <repositório remoto>  
-   
-   git remote add upstream git@github.com:/<empresa>/<path.git>
-  
-	git checkout <branch>
-
-	git add .  
-
- 	git commit -m "Mensagem do commit"  
-
-	git push <repositório remoto> <branch local>:<branch remoto>  
- 	
----  
