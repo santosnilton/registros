@@ -63,11 +63,20 @@
 	git merge <nome>  
 ---
 ## Atualizando Repositorio
-	git checkout main
+	git branch  
+ 
+ 	git remote  
+
+  	git remote -v
+   git remote remove master
+   git remote add upstream https://github.com/<empresa>/<path.git>
+  
+	git checkout <branch>
 
 	git add .  
 
- 	git commit -m "Atualização da brancj master local 2"  
+ 	git commit -m "Mensagem do commit"  
 
-	git push origin main:master  
+	git push <repositório remoto> <branch local>:<branch remoto>  
+ 	
 ---  
