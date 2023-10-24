@@ -62,3 +62,10 @@
 ## Merge da Branch  
 	git merge <nome>  
 ---
+## Atualizando Repositorio
+	git checkout main  
+      
+	git pull origin main  
+
+	git push origin main:master  
+---  
