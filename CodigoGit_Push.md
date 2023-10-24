@@ -63,12 +63,12 @@
 	git merge <nome>  
 ---
 ## Atualizando Repositorio
+	git checkout main
+
 	git add .  
 
  	git commit -m "Atualização da brancj master local 2"  
- 	
- 	git checkout main  
-
+ 	 
  	git pull origin main  
 
 	git push origin main:master  
