@@ -69,6 +69,7 @@
 
   	git remote -v
    git remote remove master  
+   
    'git remote add upstream https://github.com/<empresa>/<path.git>'
   
 	git checkout <branch>
