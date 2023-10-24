@@ -68,8 +68,6 @@
 	git add .  
 
  	git commit -m "Atualização da brancj master local 2"  
- 	 
- 	git pull origin main  
 
 	git push origin main:master  
 ---  
