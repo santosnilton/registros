@@ -1,8 +1,6 @@
 # Conectando um Repositório local no Repositório remoto  
 ## Inicializar o Repositório Local
 	git init  
-### Criar Arquivo  
-	touch <name.type>   
 ## Verifique a Conexão com o GitHub
 	ssh -T git@github.com
 ## Gerar uma chave SSH LOCAL
@@ -38,6 +36,8 @@
 	git log  
 ## Detalhes  
 	git diff  
+ ### Criar Arquivo  
+	touch <name.type>   
 ## Criar/Remover Pasta(Diretório)  
 	mkdir <name>  
 		rm <name> |ou| rm -f <name>  
