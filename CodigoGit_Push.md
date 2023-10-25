@@ -4,9 +4,7 @@
 
 ## Atualizando Repositorio
 	git branch  
- 
  	git remote  
-
   	git remote -v
    git remote remove <repositório remoto>  
    
