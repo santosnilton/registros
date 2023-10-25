@@ -1,3 +1,11 @@
+# Conectando um Repositório local no repositório remoto  
+Verifique a Chave SSH:  
+	ssh -T git@github.com
+
+
+
+
+
 # ligando e enviando alterações do Repo local para um Repo remoto 
 
 ## Criar Pasta(Diretório)  
