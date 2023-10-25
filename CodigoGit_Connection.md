@@ -1,8 +1,9 @@
 # Conectando um Repositório local no repositório remoto  
 
 ## Verifique a Chave SSH
-		ssh -T git@github.com
-
+	ssh -T git@github.com
+## Adicione sua chave SSH ao agente SSH
+	ssh-add ~/.ssh/id_ed25519		
 
 
 
