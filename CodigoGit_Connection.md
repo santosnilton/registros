@@ -5,7 +5,7 @@
 ## Gerar uma chave SSH LOCAL
 	ssh-add ~/.ssh/id_ed25519	
 ## Copie a chave SSH
-type C:\Users\adm\.ssh\id_ed25519.pub  # para Windows  
+	type C:\Users\adm\.ssh\id_ed25519.pub  # para Windows  
 ## Faça a conexão no Host do GitHub
 	Acesse sua conta no GitHub.
 	Vá para as configurações de segurança.
