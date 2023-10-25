@@ -1,6 +1,7 @@
 # Conectando um Repositório local no repositório remoto  
-Verifique a Chave SSH:  
-	ssh -T git@github.com
+
+## Verifique a Chave SSH
+		ssh -T git@github.com
 
 
 
