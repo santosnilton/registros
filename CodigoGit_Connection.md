@@ -11,9 +11,11 @@
 	Vá para as configurações de segurança.
 	Selecione "SSH and GPG keys."
 	Clique em "New SSH key" e cole a chave pública que você copiou no passo anterior.
+ ## Verifique a existência de repositótios Remotos  
+	git config --get remote.origin.url  
+## Adicionar um repositório remoto  
+	git remote add origin URL-do-Repositório-Remoto  
 
-  
-  
   
 ## Criar Pasta(Diretório)  
 	mkdir <name>  
