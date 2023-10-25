@@ -1,4 +1,4 @@
-# Conectando um Repositório local no repositório remoto  
+# Conectando um Repositório local no Repositório remoto  
 
 ## Verifique a Conexão com o GitHub
 	ssh -T git@github.com
@@ -12,12 +12,9 @@ type C:\Users\adm\.ssh\id_ed25519.pub  # para Windows
 	Selecione "SSH and GPG keys."
 	Clique em "New SSH key" e cole a chave pública que você copiou no passo anterior.
 
-
-
-
-
-# ligando e enviando alterações do Repo local para um Repo remoto 
-
+  
+  
+  
 ## Criar Pasta(Diretório)  
 	mkdir <name>  
 		rm <name> |ou| rm -f <name>  
