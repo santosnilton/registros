@@ -20,13 +20,14 @@
 	git remote  
 	git remote -v  
 ## Enviando arquivos do Repositório local para o Repositório remoto  
-envie um branch local específico para um branch remoto específico no repositório remoto. 
-
-	git push <repositório remoto> <branch local>:<branch remoto>	
  	
   O uso da opção "-u" (ou "--set-upstream") configura o branch local para rastrear o branch remoto  
   
-	git push -u <repositório remoto> <branch local>
+	git push -u <repositório remoto> <branch local>  
+ 
+ Envie um branch local específico para um branch remoto específico no repositório remoto. 
+
+	git push <repositório remoto> <branch local>:<branch remoto>
 
 ---   
  
