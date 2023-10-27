@@ -27,7 +27,9 @@ Commitar alterações
   Empurrar as alterações
 
 	git push <repositório remoto> <branch local>:<branch remoto>  
- 	
+ Mostrar processo de pull/push
+
+  	git show
 --- 
 ## Criar Pasta(Diretório)  
 	mkdir <name>  
