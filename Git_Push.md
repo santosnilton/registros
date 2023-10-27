@@ -3,9 +3,13 @@
 # Ligando e enviando alterações do Repo local para um Repo remoto  
 
 ## Atualizando Repositorio
+Identificar a branch  
+
 	git branch  
+ Listar o Repositório  
  
  	git remote  
+
   
   	git remote -v
    git remote remove <repositório remoto>  
