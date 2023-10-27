@@ -3,7 +3,7 @@
 ## Verifique a Conexão com o GitHub
 	ssh -T git@github.com
 
-## Gerar uma chave SSH LOCAL
+## Gerar uma chave SSH local
 	ssh-keygen -t ed25519 -C "seu_email@example.com"  	
 
 ## Copie a chave SSH
