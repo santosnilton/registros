@@ -103,7 +103,7 @@
 
 ## Para criar uma nova branch e fazer um commit dos arquivos não rastreados:
 	git checkout -b temp-branch  
-	git add bilixapp/  
+	git add <diretorio>/  
 	git commit -m "Committing untracked files in bilixapp"  
 
 
