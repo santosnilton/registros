@@ -24,6 +24,8 @@ Commitar alterações
 
  	git commit -m "Mensagem do commit"  
 
+  Empurrar as alterações
+
 	git push <repositório remoto> <branch local>:<branch remoto>  
  	
 --- 
