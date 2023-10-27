@@ -49,7 +49,7 @@
 	git remote remove <nome_do_repositório_remoto>
 	git remote rm <nome_do_repositório_remoto>
 
-~~
+
 ## Para push com configuração
 	git push --set-upstream <nome_do_repositório_remoto> <branch local>  
 
