@@ -32,6 +32,9 @@
 
 ## Para configurar a relação de rastreamento entre um branch local e um branch remoto especificado  
 	git branch --set-upstream-to=<nome_do_repositório_remoto>/<branch_remoto> <branch_local>  
+ ### Para remover a relação de rastreamento
+ 	git branch --unset-upstream <branch_local>
+
 
 ---
 ### Mapear Repositórios  
