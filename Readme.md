@@ -8,4 +8,4 @@ Push
 
 > Markdown
 
-Comandos de Edição
+Edition
