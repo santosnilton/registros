@@ -14,7 +14,7 @@
 	Vá para as configurações de segurança.
 	Selecione "SSH and GPG keys."
 	Clique em "New SSH key" e cole a chave pública que você copiou no passo anterior.
-~~  
+
 ## Inicializar o Repositório Local
 	git init 
 ~~  
@@ -34,7 +34,6 @@
 	git branch --set-upstream-to=<nome_do_repositório_remoto>/<branch_remoto> <branch_local>  
 
 
-~~
 ### Mapear Repositórios  
 
 ## Descubra a URL do Repositórios Remotos  
@@ -43,7 +42,7 @@
 ## Descubra o <nome_do_repositório_remoto> pela URL
 	git remote -v | grep 'https://github.com/seu-usuario/seu-repositorio.git'
 
-~~
+
 ### Movimentar Repositórios  
 
 ## Para remover repositório remoto
@@ -98,6 +97,20 @@
 ---    
 ## Merge da Branch  
 	git merge <nome>  
+
+
+## Para desfazer merge
+	git merge --abort
+
+
+## Para criar uma nova branch e fazer um commit dos arquivos não rastreados:
+	git checkout -b temp-branch  
+	git add bilixapp/  
+	git commit -m "Committing untracked files in bilixapp"  
+
+
+## Para guardar as mudanças temporariamente 
+	git stash
 ---   
 
   
