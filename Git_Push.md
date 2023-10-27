@@ -12,13 +12,15 @@ Identificar a branch
 
   
   	git remote -v
-   git remote remove <repositório remoto>  
+
+   Trocar de branch  
    
-   git remote add upstream git@github.com:/<empresa>/<path.git>
-  
 	git checkout <branch>
 
+Salvar alterações  
+
 	git add .  
+Commitar alterações  
 
  	git commit -m "Mensagem do commit"  
 
