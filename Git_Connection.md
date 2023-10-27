@@ -14,15 +14,15 @@
 	Vá para as configurações de segurança.
 	Selecione "SSH and GPG keys."
 	Clique em "New SSH key" e cole a chave pública que você copiou no passo anterior.
-
+---
 ## Inicializar o Repositório Local
 	git init 
-~~  
+---
 ## Listando os Repositórios  
 	git remote  
 	git remote -v  
 
-~~
+---
 ## Para adicionar/ligar uma conexão do repositório remoto no repositório local
 	git remote add <nome_do_repositório_remoto> <URL_do_repositório>
   
@@ -33,7 +33,7 @@
 ## Para configurar a relação de rastreamento entre um branch local e um branch remoto especificado  
 	git branch --set-upstream-to=<nome_do_repositório_remoto>/<branch_remoto> <branch_local>  
 
-
+---
 ### Mapear Repositórios  
 
 ## Descubra a URL do Repositórios Remotos  
@@ -42,7 +42,7 @@
 ## Descubra o <nome_do_repositório_remoto> pela URL
 	git remote -v | grep 'https://github.com/seu-usuario/seu-repositorio.git'
 
-
+---
 ### Movimentar Repositórios  
 
 ## Para remover repositório remoto
@@ -59,9 +59,7 @@
 	git push <repositório remoto> <branch local>:<branch remoto>
 
 ---   
- 
-		  
-   
+  
 ## Movimentação de arquivos  
 ---   
 
