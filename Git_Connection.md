@@ -17,6 +17,9 @@
 ---
 ## Inicializar o Repositório Local
 	git init 
+	rmdir /s /q .git # Para remover git init
+
+
 ---
 ## Listando os Repositórios  
 	git remote  
