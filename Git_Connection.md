@@ -66,6 +66,14 @@
 
 ## Para resolver o problema de sequência com o risco de perda de trabalho
 	git reset --hard csharp/main
+
+## Mesclar históricos sem se preocupar com o histórico existente
+	git pull origin main --allow-unrelated-histories
+
+## Substituir o branch local pelo remoto
+	git fetch origin
+	git reset --hard origin/main
+
 ---   
   
 ## Movimentação de arquivos  
