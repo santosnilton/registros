@@ -68,6 +68,8 @@
   
 ## Movimentação de arquivos  
 ---   
+## Para resolver o problema de sequência com o risco de perda de trabalho
+	git reset --hard csharp/main
 
 ## Status  
 	git status  
