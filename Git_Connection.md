@@ -64,12 +64,12 @@
 ## Para enviar um branch local específico para um branch remoto específico no repositório remoto 
 	git push <repositório remoto> <branch local>:<branch remoto>
 
+## Para resolver o problema de sequência com o risco de perda de trabalho
+	git reset --hard csharp/main
 ---   
   
 ## Movimentação de arquivos  
 ---   
-## Para resolver o problema de sequência com o risco de perda de trabalho
-	git reset --hard csharp/main
 
 ## Status  
 	git status  
